@@ -13,8 +13,13 @@ The Next-Generation OSINT Tool !
 
 # Installation
 
+Clone the repository :
 ```git clone https://github.com/EmptyH34d/OSint-```
+
+Install the requirements : 
 ```pip install -r requirements.txt```
+
+Start the tool :
 ```python3 OSint().py```
 
 
