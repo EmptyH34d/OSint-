@@ -11,5 +11,12 @@ The Next-Generation OSINT Tool !
 - Search for Pictures
 ### Results Guaranteed !
 
+# Installation
+
+```git clone https://github.com/EmptyH34d/OSint-```
+```pip install -r requirements.txt```
+```python3 OSint().py```
+
+
 # License
 MIT
